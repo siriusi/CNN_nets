@@ -1,0 +1,662 @@
+    1  ls
+    2  cd z.tomcato
+    3  ls
+    4  du
+    5  cd cs231n/
+    6  ls
+    7  cd assignment1/
+    8  ls
+    9  cd cs231n/
+   10  ls
+   11  cd datasets/
+   12  ls
+   13  ./ get_datasets.sh 
+   14  ./get_datasets.sh 
+   15  sudo ./get_datasets.sh 
+   16  source ~/assignment1/py3env/bin/activate
+   17  source /home/z_tomcato/assignment1/py3env/bin/activate
+   18  jupyter-notebook --no-browser --port=8123
+   19  ls
+   20  vim /etc/passwd
+   21  ls
+   22  ls /home
+   23  ls /home/cs231n
+   24  ls /home/z.tomcato/cs231n
+   25  cp /home/z.tomcato/cs231n /home/z_tomcato/cs231n
+   26  mv /home/z.tomcato/cs231n /home/z_tomcato/cs231n
+   27  ls
+   28  cd cs231n
+   29  ls
+   30  cd assignment1/
+   31  ls
+   32  userdel –r z.tomcato
+   33  # w
+   34  # W
+   35  #w
+   36  w
+   37  userdel –r z.tomcato
+   38  cd /home
+   39  userdel –r z.tomcato
+   40  userdel –r -f z.tomcato
+   41  userdel --remove-home z.tomcato
+   42  sudo userdel –r z.tomcato
+   43  userdel –r z.tomcato
+   44  ls
+   45  userdel -r z.tomcato/
+   46  userdel -r z.tomcato
+   47  ls
+   48  cd z_tomcato/
+   49  ls
+   50  mv assignment1/ env
+   51  ls
+   52  cd env
+   53  ls
+   54  del -h
+   55  rm collectSubmission.sh setup_googlecloud.sh start_ipython_osx.sh README.md 
+   56  ls
+   57  rm knn.ipynb svm.ipynb Untitled.ipynb 
+   58  ls
+   59  rm features.ipynb softmax.ipynb two_layer_net.ipynb 
+   60  ls
+   61  su -z_tomcato
+   62  su z_tomcato
+   63  ls
+   64  ./cs231n/start_jupyter.sh 
+   65  source /home/z_tomcato/assignment1/py3env/bin/activate
+   66  ls
+   67  cd cs231n/
+   68  ls
+   69  vim start_jupyter.sh 
+   70  vim cs231n/start_jupyter.sh 
+   71  vim /cs231n/start_jupyter.sh 
+   72  ls
+   73  vim start_jupyter.sh 
+   74  jupyter-notebook --no-browser --port=8123
+   75  ls
+   76  rm runEnvAndJupyter.sh 
+   77  ls
+   78  cd cs231n/
+   79  ls
+   80  source start_jupyter.sh 
+   81  vim start_jupyter.sh 
+   82  jupyter-notebook --no-browser --port=8123
+   83  ls
+   84  cd cs231n/
+   85  jupyter-not
+   86  source start_jupyter.sh 
+   87  jupyter-notebook --no-browser --port=8123&
+   88  source start_jupyter.sh
+   89  ls
+   90  cd cs231n/
+   91  source start_jupyter.sh
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd ..
+   96  ls
+   97  cd cs231n/
+   98  ls
+   99  source /home/z_tomcato/assignment1/py3env/bin/activate
+  100  jupyter-notebook --no-browser --port=8123&
+  101  gnome-system-monitor
+  102  ps -ef
+  103  kill 5406
+  104  kill 4909
+  105  kill 5617
+  106  jupyter-notebook --no-browser --port=8123&
+  107  ps -ef
+  108  kill 5601
+  109  jupyter-notebook --no-browser --port=8123
+  110  ls
+  111  ps -ef
+  112  kill 5601
+  113  kill 5662
+  114  jupyter-notebook --no-browser --port=8129
+  115  deactivate 
+  116  ls
+  117  cd assignment
+  118  cd assignment1
+  119  ls
+  120  cd cs231n/
+  121  ls
+  122  cd /
+  123  ls
+  124  cd bin
+  125  ls
+  126  cd /home/
+  127  ls
+  128  cd ubuntu/
+  129  ls
+  130  cd ..
+  131  cd z_tomcato/
+  132  ls
+  133  cd notebooks/
+  134  ls
+  135  cd ..
+  136  cd assignment1/
+  137  ls
+  138  cd frameworkpython 
+  139  vim frameworkpython 
+  140  cd cs231n/
+  141  ls
+  142  cd classifiers/
+  143  ls
+  144  cd ..
+  145  cd data
+  146  cd datasets/
+  147  ls
+  148  cd ..
+  149  cd assignment2
+  150  ls
+  151  cd cs
+  152  cd cs231n/
+  153  cd assignment
+  154  ls
+  155  cd assignment1
+  156  ls
+  157  cd cs231n/
+  158  ls
+  159  cd ..
+  160  source start_jupyter.sh
+  161  ps -ef
+  162  source /home/z_tomcato/assignment1/py3env/bin/activate
+  163  deactivate 
+  164  cd /home/z_tomcato/assignment1/
+  165  ls
+  166  cd cs231n/
+  167  ls
+  168  cd bin
+  169  su
+  170  source /home/z_tomcato/assignment1/py3env/bin/activate
+  171  jupyter-notebook --no-browser --port=8123
+  172  ls ~/.jupyter/jupyter_notebook_config.py
+  173  ls home/.jupyter/jupyter_notebook_config.py
+  174  ls home/z_tomcato/.jupyter/jupyter_notebook_config.py
+  175  jupyter notebook --generate-config
+  176  vim /root/.jupyter/jupyter_notebook_config.py
+  177  ls
+  178  vim /root/.jupyter/jupyter_notebook_config.py
+  179  source /home/z_tomcato/assignment1/py3env/bin/activate
+  180  jupyter notebook --generate-config
+  181  jupyter-notebook --no-browser --port=8123
+  182  ls
+  183  cd cs231n/
+  184  git add
+  185  git add *
+  186  ls
+  187  mkdir assignment3
+  188  cd assignment
+  189  cd assignment3
+  190  ls
+  191  git clone git@github.com:siriusi/assignment3.git
+  192  ls
+  193  ssh-keygen -t rsa -b 4096 -C "z_tomcato@gmail.com"
+  194  vim /root/.ssh/id_rsa.pub
+  195  git clone git@github.com:siriusi/assignment3.git
+  196  ls
+  197  cd assignment3/
+  198  ls
+  199  cd cs231n/datasets/
+  200  l
+  201  cd cs231n/assignment3/assignment3/cs231n/
+  202  ls
+  203  cd data
+  204  cd datasets/
+  205  ls
+  206  . get_assignment3_data.sh 
+  207  ./get_assignment3_data.sh 
+  208  su ./get_assignment3_data.sh 
+  209  su . get_assignment3_data.sh 
+  210  ./get_assignment3_data.sh
+  211  source get_assignment3_data.sh
+  212  chmod 777 *.sh
+  213  source get_assignment3_data.sh
+  214  ls
+  215  source /home/z_tomcato/assignment1/py3env/bin/activate
+  216  jupyter notebook --generate-config
+  217  jupyter-notebook --no-browser --port=8123
+  218  jupyter notebook --generate-config
+  219  vim /root/.jupyter/jupyter_notebook_config.py
+  220  cd /
+  221  jupyter-notebook --no-browser --port=8123
+  222  vim /root/.jupyter/jupyter_notebook_config.py
+  223  jupyter-notebook --no-browser --port=8123
+  224  vim /root/.jupyter/jupyter_notebook_config.py
+  225  jupyter-notebook --no-browser --port=8123
+  226  vim /root/.jupyter/jupyter_notebook_config.py
+  227  jupyter-notebook --no-browser --port=8123
+  228  source /home/z_tomcato/assignment1/py3env/bin/activate
+  229  jupyter-notebook --no-browser --port=8123
+  230  source /home/z_tomcato/assignment1/py3env/bin/activate
+  231  jupyter-notebook --no-browser --port=8123
+  232  source /home/z_tomcato/assignment1/py3env/bin/activate
+  233  jupyter-notebook --no-browser --port=8123
+  234  ls
+  235  source /home/z_tomcato/assignment1/py3env/bin/activate
+  236  jupyter-notebook --no-browser --port=8123
+  237  source /home/z_tomcato/assignment1/py3env/bin/activate
+  238  jupyter-notebook --no-browser --port=8123
+  239  source /home/z_tomcato/assignment1/py3env/bin/activate
+  240  jupyter-notebook --no-browser --port=8123
+  241  source /home/z_tomcato/assignment1/py3env/bin/activate
+  242  jupyter-notebook --no-browser --port=8123
+  243  source /home/z_tomcato/assignment1/py3env/bin/activate
+  244  jupyter-notebook --no-browser --port=8123
+  245  cd cs231n/assignment3/assignment3/
+  246  git state
+  247  git --help
+  248  git status
+  249  git RNN_Captioning.ipynb cs231n/classifiers/rnn.py cs231n/rnn_layers.py
+  250  git add RNN_Captioning.ipynb cs231n/classifiers/rnn.py cs231n/rnn_layers.py
+  251  git commit -m "finished the rnn by google cloud"
+  252  git push
+  253  ls
+  254  source /home/z_tomcato/assignment1/py3env/bin/activate
+  255  pip3 install -U nltk
+  256  jupyter-notebook --no-browser --port=8123
+  257  source /home/z_tomcato/assignment1/py3env/bin/activate
+  258  jupyter-notebook --no-browser --port=8123
+  259  ls
+  260  cd cs231n/assignments2
+  261  cd cs231n/assignment2
+  262  ls
+  263  cd assignment2/
+  264  ls
+  265  cd cs231n/
+  266  ls
+  267  cd inception_V3.log/
+  268  ls
+  269  vim checkpoint 
+  270  vim events.out.tfevents.1522750695.cs231n 
+  271  vim graph.pbtxt 
+  272  vim model.ckpt-0.meta 
+  273  vim model.ckpt-0.data-00000-of-00001 
+  274  ls
+  275  cd ..
+  276  rm inception_V3.log -rf
+  277  ls
+  278  source /home/z_tomcato/assignment1/py3env/bin/activate
+  279  jupyter-notebook --no-browser --port=8123
+  280  pip3 install --ignore-installed --upgrade "https://github.com/sigilioso/tensorflow-build/raw/master/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl"
+  281  source /home/z_tomcato/assignment1/py3env/bin/activate
+  282  pip3 install --ignore-installed --upgrade "https://github.com/sigilioso/tensorflow-build/raw/master/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl"
+  283  pip3 install --upgrade pip
+  284  pip3 install --ignore-installed --upgrade "https://github.com/sigilioso/tensorflow-build/raw/master/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl"
+  285  python --version
+  286  pip3 install --ignore-installed --upgrade "https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.4.0-cp35-cp35m-linux_x86_64.whl"
+  287  source /home/z_tomcato/assignment1/py3env/bin/activate
+  288  jupyter-notebook --no-browser --port=8123
+  289  ls
+  290  source /home/z_tomcato/assignment1/py3env/bin/activate
+  291  jupyter-notebook --no-browser --port=8123
+  292  cd cs231n/assignment3/assignment3/cs231n/datasets/
+  293  ls
+  294  ./get_squeezenet_tf.sh 
+  295  source /home/z_tomcato/assignment1/py3env/bin/activate
+  296  jupyter-notebook --no-browser --port=8123
+  297  cd cs231n/assignment3/assignment3/cs231n/datasets/
+  298  ./get_squeezenet_tf.sh 
+  299  jupyter-notebook --no-browser --port=8123
+  300  cd /home/z_tomcato/cs231n/assignment3
+  301  jupyter-notebook --no-browser --port=8123
+  302  cd cs231n/assignment3/assignment3/cs231n/datasets/
+  303  ls
+  304  vim get_squeezenet_tf.sh 
+  305  ls
+  306  cd ..
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd cs231n/
+  311  ls
+  312  cd classifiers/
+  313  ls
+  314  cd ..
+  315  source /home/z_tomcato/assignment1/py3env/bin/activate
+  316  jupyter-notebook --no-browser --port=8123
+  317  source /home/z_tomcato/assignment1/py3env/bin/activate
+  318  jupyter-notebook --no-browser --port=8123
+  319  source /home/z_tomcato/assignment1/py3env/bin/activate
+  320  jupyter-notebook --no-browser --port=8123
+  321  source /home/z_tomcato/assignment1/py3env/bin/activate
+  322  jupyter-notebook --no-browser --port=8123
+  323  source /home/z_tomcato/assignment1/py3env/bin/activate
+  324  jupyter-notebook --no-browser --port=8123
+  325  source /home/z_tomcato/assignment1/py3env/bin/activate
+  326  jupyter-notebook --no-browser --port=8123
+  327  source /home/z_tomcato/assignment1/py3env/bin/activate
+  328  jupyter-notebook --no-browser --port=8123
+  329  source /home/z_tomcato/assignment1/py3env/bin/activate
+  330  jupyter-notebook --no-browser --port=8123
+  331  source /home/z_tomcato/assignment1/py3env/bin/activate
+  332  jupyter-notebook --no-browser --port=8123
+  333  source /home/z_tomcato/assignment1/py3env/bin/activate
+  334  jupyter-notebook --no-browser --port=8123
+  335  source /home/z_tomcato/assignment1/py3env/bin/activate
+  336  jupyter-notebook --no-browser --port=8123
+  337  source /home/z_tomcato/assignment1/py3env/bin/activate
+  338  jupyter-notebook --no-browser --port=8123
+  339  source /home/z_tomcato/assignment1/py3env/bin/activate
+  340  jupyter-notebook --no-browser --port=8123
+  341  source /home/z_tomcato/assignment1/py3env/bin/activate
+  342  jupyter-notebook --no-browser --port=8123
+  343  source /home/z_tomcato/assignment1/py3env/bin/activate
+  344  jupyter-notebook --no-browser --port=8123
+  345  source /home/z_tomcato/assignment1/py3env/bin/activate
+  346  jupyter-notebook --no-browser --port=8123
+  347  source /home/z_tomcato/assignment1/py3env/bin/activate
+  348  jupyter-notebook --no-browser --port=8123
+  349  source /home/z_tomcato/assignment1/py3env/bin/activate
+  350  jupyter-notebook --no-browser --port=8123
+  351  cd cs231n/
+  352  cd assignment2
+  353  ls
+  354  cd assignment2/
+  355  ls
+  356  git pull
+  357  rm TensorFlow.ipynb 
+  358  git pull
+  359  source /home/z_tomcato/assignment1/py3env/bin/activate
+  360  jupyter-notebook --no-browser --port=8123
+  361  cd cs231n/assignment2/assignment2/
+  362  ls
+  363  wget http://download.tensorflow.org/models/inception_resnet_v2_2016_08_30.tar.gz
+  364  tar inception_resnet_v2_2016_08_30.tar.gz 
+  365  tar -xvf inception_resnet_v2_2016_08_30.tar.gz 
+  366  dir
+  367  rm inception_resnet_v2_2016_08_30.tar.gz 
+  368  source /home/z_tomcato/assignment1/py3env/bin/activate
+  369  jupyter-notebook --no-browser --port=8123
+  370  cd /home/z_tomcato/cs231n/
+  371  source /home/z_tomcato/assignment1/py3env/bin/activate
+  372  jupyter-notebook --no-browser --port=8123
+  373  source /home/z_tomcato/assignment1/py3env/bin/activate
+  374  jupyter-notebook --no-browser --port=8123
+  375  source /home/z_tomcato/assignment1/py3env/bin/activate
+  376  jupyter-notebook --no-browser --port=8123
+  377  source /home/z_tomcato/assignment1/py3env/bin/activate
+  378  jupyter-notebook --no-browser --port=8123
+  379  cd cs231n/assignment3/assignment3/
+  380  ls
+  381  cd cs231n/
+  382  ls
+  383  cd data
+  384  ls
+  385  cd datasets/
+  386  ls
+  387  cd ..
+  388  ls
+  389  cd ..
+  390  cd assignment2
+  391  ls
+  392  cd assignment2/
+  393  ls
+  394  cd result/
+  395  ls
+  396  cd ..
+  397  tensorboard --logdir result
+  398  source /home/z_tomcato/assignment1/py3env/bin/activate
+  399  pip3 install tensorboard
+  400  tensorboard --logdir result
+  401  ls
+  402  rm result -rf
+  403  ls
+  404  cd result/
+  405  ls
+  406  rm 2018-04-19
+  407  rm "2018-04-19 04:30:42"
+  408  rm "2018-04-19 04:30:42" -rf
+  409  ls
+  410  la
+  411  ls
+  412  source /home/z_tomcato/assignment1/py3env/bin/activate
+  413  jupyter-notebook --no-browser --port=8123
+  414  source /home/z_tomcato/assignment1/py3env/bin/activate
+  415  jupyter-notebook --no-browser --port=8123
+  416  tensorboard --logdir /home/z_tomcato/cs231n/assignment2/assignment2/result
+  417  source /home/z_tomcato/assignment1/py3env/bin/activate
+  418  tensorboard --logdir /home/z_tomcato/cs231n/assignment2/assignment2/result
+  419  source /home/z_tomcato/assignment1/py3env/bin/activate
+  420  jupyter-notebook --no-browser --port=8123
+  421  source /home/z_tomcato/assignment1/py3env/bin/activate
+  422  jupyter-notebook --no-browser --port=8123
+  423  git status
+  424  cd cs231n/assignment2/assignment2/
+  425  git status
+  426  git add squeeze_net.py SqueezenetTest_Tensorflow.ipynb cs231n/solver.py 
+  427  git commint
+  428  git commit -m "使用Squeezenet测试"
+  429  git push
+  430  cd cs231n/assignment2/assignment2/
+  431  git pull
+  432  source /home/z_tomcato/assignment1/py3env/bin/activate
+  433  jupyter-notebook --no-browser --port=8123
+  434  source /home/z_tomcato/assignment1/py3env/bin/activate
+  435  jupyter-notebook --no-browser --port=8123
+  436  cd /
+  437  ls
+  438  cd dev
+  439  ls
+  440  df -h
+  441  fdisk -l
+  442  fdisk -s 56 /dev/sdb
+  443  mkfs.ext4 /dev/sdb
+  444  blkid
+  445  df -h
+  446  editor /etc/fstab
+  447  fdisk /dev/sdb
+  448  fdisk -lu
+  449  mkfs -t ext4 /dev/sdb1
+  450  fdisk -lu
+  451  df -l
+  452  mount -t ext4 /dev/sdb1 /home
+  453  mkfs -t ext4 /dev/sdb1
+  454  fdisk /dev/sdb1
+  455  mkfs -t ext4 /dev/sdb
+  456  df -l
+  457  mount -t ext4 /dev/sdb /home
+  458  df -l
+  459  ls
+  460  cd ..
+  461  ls
+  462  cd home
+  463  ls
+  464  cd ..
+  465  ls
+  466  cd /
+  467  ls
+  468  df -l
+  469  fdisk -lu
+  470  sudo df -l
+  471  mount -t ext4 /dev/sdb /devdata
+  472  mkdir devdata
+  473  mount -t ext4 /dev/sdb /devdata
+  474  sudo df -l
+  475  blkid
+  476  vim /etc/fstab
+  477  ls
+  478  cd ..
+  479  ls
+  480  cd /
+  481  ls
+  482  cd devdata
+  483  ls
+  484  source /home/z_tomcato/assignment1/py3env/bin/activate
+  485  jupyter-notebook --no-browser --port=8123
+  486  cd /home/z_tomcato/cs231n/assignment2/assignment2/result
+  487  ls
+  488  rm -rf (2018-04-19_05\:42\:11/|2018-04-19_04\:31\:40/|2018-04-21_17\:05\:49/|2018-04-21_17\:21\:22/)
+  489  ls
+  490  cd cs231n/
+  491  ls
+  492  cd .
+  493  cd /
+  494  ls
+  495  cd dev
+  496  cd ..
+  497  cd devdata/
+  498  ls
+  499  vim test
+  500  ls
+  501  vim test
+  502  chrome 777
+  503  chmod 777
+  504  chmod 700 .
+  505  id
+  506  more /etc/passwd
+  507  ls
+  508  ls -l
+  509  cd lost+found/
+  510  ls
+  511  cd ..
+  512  chown -R z_tomcato
+  513  chown -R z_tomcato .
+  514  ls -l
+  515  tensorboard --logdir result
+  516  cd ..
+  517  cd /home/z_tomcato/cs231n/assignment2/assignment2/
+  518  ls
+  519  tensorboard --logdir result
+  520  cd /home/z_tomcato/
+  521  ls
+  522  rm squeeze_net.py SqueezenetTest_Tensorflow.ipynb 
+  523  ls
+  524  cd /home/z_tomcato/cs231n/assignment2/assignment2/
+  525  source /home/z_tomcato/assignment1/py3env/bin/activate
+  526  tensorboard --logdir result
+  527  source /home/z_tomcato/assignment1/py3env/bin/activate
+  528  tensorboard --logdir result
+  529  jupyter-notebook --no-browser --port=8123
+  530  jupyter-notebook --no-browser --port=8123 &
+  531  source /home/z_tomcato/assignment1/py3env/bin/activate
+  532  jupyter-notebook --no-browser --port=8123 &
+  533  source /home/z_tomcato/assignment1/py3env/bin/activate
+  534  pydoc modules
+  535  python3
+  536  ls
+  537  cd /devdata/
+  538  ls
+  539  wget https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
+  540  tar wiki_crop.tar 
+  541  source /home/z_tomcato/assignment1/py3env/bin/activate
+  542  jupyter-notebook --no-browser --port=8123 &
+  543  cd /home/z_tomcato/cs231n/assignment2/assignment2/
+  544  source /home/z_tomcato/assignment1/py3env/bin/activate
+  545  git status
+  546  ls
+  547  source /home/z_tomcato/assignment1/py3env/bin/activate
+  548  cd /home/z_tomcato/cs231n/assignment2/assignment2/
+  549  ls
+  550  git stutsa
+  551  git status
+  552  git rm squeeze_net
+  553  git add suqeeze_net_Old.py suqeeze_net_old.py suqeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  554  git rm squeeze_net_Old.py
+  555  git add suqeeze_net_old.py suqeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  556  ls
+  557  git add suqeeze_net_old.py suqeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  558  git add suqeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  559  git add suqeeze_net_old.py suqeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  560  ls
+  561  git add squeeze_net_old.py squeeze_net.py SqueezenetTest_Tensorflow.ipynb .gitignore 
+  562  git commint -m '完成了squeeze_net'
+  563  git commit -m '完成了squeeze_net'
+  564  git push
+  565  cd /home/z_tomcato/cs231n/
+  566  git clone git@github.com:siriusi/CNN_nets.git
+  567  ls
+  568  source /home/z_tomcato/assignment1/py3env/bin/activate
+  569  jupyter-notebook --no-browser --port=8123 &
+  570  cd assignment2/assignment2/cs231n/datasets/
+  571  ls
+  572  source /home/z_tomcato/assignment1/py3env/bin/activate
+  573  jupyter-notebook --no-browser --port=8123
+  574  source /home/z_tomcato/assignment1/py3env/bin/activate
+  575  jupyter-notebook --no-browser --port=8123
+  576  ls
+  577  cd cs231n/CNN_nets/
+  578  ls
+  579  rm -rf result/
+  580  source /home/z_tomcato/assignment1/py3env/bin/activate
+  581  tensorboard --logdir result
+  582  source /home/z_tomcato/assignment1/py3env/bin/activate
+  583  tensorboard --logdir result
+  584  cd /home/z_tomcato/cs231n/assignment2/assignment2/
+  585  tensorboard --logdir result
+  586  cd /home/z_tomcato/cs231n/CNN_nets/
+  587  tensorboard --logdir result
+  588  source /home/z_tomcato/assignment1/py3env/bin/activate
+  589  jupyter-notebook --no-browser --port=8123
+  590  source /home/z_tomcato/assignment1/py3env/bin/activate
+  591  jupyter-notebook --no-browser --port=8123
+  592  source /home/z_tomcato/assignment1/py3env/bin/activate
+  593  jupyter-notebook --no-browser --port=8123
+  594  cd cs231n/
+  595  ls
+  596  cd CNN_nets/
+  597  git pull
+  598  git clone git@github.com:siriusi/tensornets.git
+  599  ls
+  600  rm tensornets/ -rf
+  601  ls
+  602  cd ..
+  603  ls
+  604  git clone git@github.com:siriusi/tensornets.git
+  605  source /home/z_tomcato/assignment1/py3env/bin/activate
+  606  sudo apt-get update
+  607  sudo apt-get install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+  608  wget -O opencv.zip https://github.com/Itseez/opencv/archive/3.2.0.zip
+  609  unzip opencv.zipwget -O opencv.zip https://github.com/Itseez/opencv/archive/3.2.0.zip
+  610  unzip opencv.zip
+  611  ls
+  612  cd opencv-3.2.0/
+  613  cd opencv-3.2.0
+  614  mkdir build
+  615  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+  616  make -4j
+  617  mkdir build
+  618  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+  619  ls
+  620  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local .
+  621  make -4j
+  622  sudo make install
+  623  ls
+  624  cd cs231n/
+  625  ls
+  626  rm opencv-3.2.0/ -rf
+  627  ls
+  628  df -hl
+  629  ls
+  630  mv opencv.zip /devdata/
+  631  ls
+  632  cd /de
+  633  cd /dev
+  634  cd ..
+  635  cd /devdata/
+  636  ls
+  637  unzip opencv.zip
+  638  cd opencv-3.2.0/
+  639  mkdir build
+  640  cd build/
+  641  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+  642  make -4j
+  643  sudo make install
+  644  source /home/z_tomcato/assignment1/py3env/bin/activate
+  645  jupyter-notebook --no-browser --port=8123
+  646  cd cs231n/
+  647  cd CNN_nets/
+  648  ls
+  649  source /home/z_tomcato/assignment1/py3env/bin/activate
+  650  python
+  651  python cnn_train.py
+  652  nohup python cnn_train >> train_log.txt &
+  653  ps -ef
+  654  ls
+  655  vim train_log.txt 
+  656  kill 19713
+  657  ps -ef
+  658  ls
+  659  rm train_log.txt 
+  660  nohup python cnn_train.py >> train_log.txt &
+  661  history
+  662  history > cmd_log.txt

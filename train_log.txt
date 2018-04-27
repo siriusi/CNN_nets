@@ -1,0 +1,101 @@
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+  File "cnn_train.py", line 88
+SyntaxError: Non-ASCII character '\xe9' in file cnn_train.py on line 88, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "cnn_train.py", line 88
+SyntaxError: Non-ASCII character '\xe9' in file cnn_train.py on line 88, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+/home/z_tomcato/assignment1/py3env/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+==============20180427_01:16:40==========================
+Train data shape:  (49000, 32, 32, 3)
+Train labels shape:  (49000,)
+Validation data shape:  (1000, 32, 32, 3)
+Validation labels shape:  (1000,)
+Test data shape:  (10000, 32, 32, 3)
+Test labels shape:  (10000,)
+Batch dataset initialized.
+# of training data: 500
+# of test data: 1000
+# of class: 10
+./result/20180427_011645
+#############################Epoch Start##############################
+0 epochs test result. loss : 23.049938, accuracy : 0.138, time/batch : 25.157sec
+
+
+#############################Epoch Start##############################
+10/10 (1 epochs) step, loss : 10.153635, accuracy : 0.110, time/batch : 15.898sec
+1 epochs test result. loss : 11.255567, accuracy : 0.085, time/batch : 32.871sec
+
+
+==================================================================
+
+
+/home/z_tomcato/assignment1/py3env/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+========================20180427_01:42:56=========================
+Traceback (most recent call last):
+  File "/home/z_tomcato/cs231n/CNN_nets/cnn_train.py", line 129, in <module>
+    tf.app.run()
+  File "/home/z_tomcato/assignment1/py3env/lib/python3.5/site-packages/tensorflow/python/platform/app.py", line 48, in run
+    _sys.exit(main(_sys.argv[:1] + flags_passthrough))
+  File "/home/z_tomcato/cs231n/CNN_nets/cnn_train.py", line 111, in main
+    X_train, y_train, X_val, y_val, X_test, y_test = get_CIFAR10_data(cifar10_dir = cifar10_dir)
+  File "/home/z_tomcato/cs231n/CNN_nets/cnn_train.py", line 21, in get_CIFAR10_data
+    X_train, y_train, X_test, y_test = load_CIFAR10(cifar10_dir)
+  File "/home/z_tomcato/cs231n/CNN_nets/cs231n/data_utils.py", line 35, in load_CIFAR10
+    X, Y = load_CIFAR_batch(f)
+  File "/home/z_tomcato/cs231n/CNN_nets/cs231n/data_utils.py", line 20, in load_CIFAR_batch
+    with open(filename, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '../assignment2/assignment2/cs231n/datasets/cifar-10-batches-py/data_batch_1'
+/home/z_tomcato/assignment1/py3env/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+========================20180427_01:45:46=========================
+Train data shape:  (49000, 32, 32, 3)
+Train labels shape:  (49000,)
+Validation data shape:  (1000, 32, 32, 3)
+Validation labels shape:  (1000,)
+Test data shape:  (10000, 32, 32, 3)
+Test labels shape:  (10000,)
+Batch dataset initialized.
+# of training data: 49000
+# of test data: 1000
+# of class: 10
+./result/20180427_014551
+#############################Epoch Start##############################
+50/588 (0 epochs) step, loss : 1.360288, accuracy : 0.512, time/batch : 44.804sec
+0 epochs test result. loss : 1.132340, accuracy : 0.615, time/batch : 18.127sec
+
+
+#############################Epoch Start##############################
+100/588 (1 epochs) step, loss : 1.137563, accuracy : 0.584, time/batch : 44.396sec
+150/588 (1 epochs) step, loss : 1.007964, accuracy : 0.598, time/batch : 44.607sec
+1 epochs test result. loss : 0.936684, accuracy : 0.674, time/batch : 18.275sec
+
+
+#############################Epoch Start##############################
+200/588 (2 epochs) step, loss : 0.874204, accuracy : 0.684, time/batch : 45.357sec
+250/588 (2 epochs) step, loss : 0.830065, accuracy : 0.686, time/batch : 44.351sec
+2 epochs test result. loss : 0.837136, accuracy : 0.702, time/batch : 18.149sec
+
+
+#############################Epoch Start##############################
+300/588 (3 epochs) step, loss : 0.678350, accuracy : 0.762, time/batch : 44.504sec
+350/588 (3 epochs) step, loss : 0.538131, accuracy : 0.810, time/batch : 45.625sec
+3 epochs test result. loss : 0.806862, accuracy : 0.713, time/batch : 18.382sec
+
+
+#############################Epoch Start##############################
+400/588 (4 epochs) step, loss : 0.557596, accuracy : 0.798, time/batch : 45.260sec
+450/588 (4 epochs) step, loss : 0.506593, accuracy : 0.818, time/batch : 44.675sec
+4 epochs test result. loss : 0.817834, accuracy : 0.712, time/batch : 18.256sec
+
+
+#############################Epoch Start##############################
+500/588 (5 epochs) step, loss : 0.471434, accuracy : 0.844, time/batch : 44.677sec
+550/588 (5 epochs) step, loss : 0.471341, accuracy : 0.824, time/batch : 45.028sec
+5 epochs test result. loss : 0.805204, accuracy : 0.720, time/batch : 18.347sec
+
+
+==================================================================
+
+
